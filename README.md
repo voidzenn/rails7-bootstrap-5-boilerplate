@@ -1,0 +1,1 @@
+# rails7-bootstrap-5-boilerplate
